@@ -48,7 +48,7 @@
 ### 1. 安装依赖
 
 环境要求：Python 3.8+  
-平台支持: Windows 10/11
+平台支持：Windows 10/11
 
 ```bash
 pip install requests keyboard pyperclip openpyxl
@@ -56,7 +56,7 @@ pip install requests keyboard pyperclip openpyxl
 
 ### 2. 运行脚本
 ```bash
-python PaperLex3.5.py
+python PaperLex3.6.1.py
 ```
 
 ### 3. 配置说明（可选）
