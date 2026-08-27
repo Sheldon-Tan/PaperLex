@@ -47,7 +47,8 @@
 
 ### 1. 安装依赖
 
-环境要求：Python 3.8+
+环境要求：Python 3.8+  
+平台支持: Windows 10/11
 
 ```bash
 pip install requests keyboard pyperclip openpyxl
