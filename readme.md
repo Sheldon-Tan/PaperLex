@@ -1,4 +1,4 @@
-# Academic Word Recorder
+# PaperLex   (PaperLexicon 论文词汇助手)
 
 专为计算机与人工智能学术论文精读设计的轻量级悬浮查词与生词记录工具。
 
