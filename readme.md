@@ -7,7 +7,7 @@
 ---
 
 ##  下载链接(仅40MB):
-##  https://github.com/Sheldon-Tan/PaperLex/archive/refs/tags/v4.1.zip
+##  https://github.com/Sheldon-Tan/PaperLex/releases/download/v4.1/PaperLex.zip
 #说明:
 * 1.如果需要deepseek接入,请点击"设置",配置api-key(也可以直接在可执行程序同目录下生成的config.json配置)
 * 2.本项目完全开源(代码如上),不含病毒,如果被windows defender阻止,保留并运行即可
