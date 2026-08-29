@@ -105,11 +105,11 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9de4d76c-c7d3-4ca3-9675-c99b42176640" width="300" /><br>
-      图 7：自动大小写转换推荐
+      图 7：一词多义时主动提示,节省token
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ea90ed67-d5c6-47f2-b49d-b669d4ddf9bd" width="300" /><br>
-      图 8：自造复合词拆解
+      图 8：深入解析学术缩写
     </td>
   </tr>
 </table>
