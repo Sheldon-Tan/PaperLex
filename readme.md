@@ -67,6 +67,17 @@
 ### 5. 本地归档与智能去重
 * **Excel 归档**：按 `Enter` 键即时将词条、音标、词性、完整释义与记录时间追加至本地 `words.xlsx`。
 * **智能覆盖去重**：默认开启自动去重，重复保存已有词条时，自动用最新记录覆盖旧行并更新时间戳，确保生词本始终精炼整洁。
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/e6314430-9232-444d-898d-269cedae7faf" height="300" /><br>
+        <sub>图 5：点击保存,Excel归档</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ### 6.牛津词典在线翻译
 * **权威查询英汉双解**:自由切换"网页查询"和"牛津查询",包含权威释义,英汉双解,地道例句,提升对论文表达的理解度。
@@ -74,8 +85,8 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/c0bcea25-1a2b-4ccc-8146-147ad37b9c6c" width="500" /><br>
-        <sub>图 1：牛津双解查词界面</sub>
+        <img src="https://github.com/user-attachments/assets/c0bcea25-1a2b-4ccc-8146-147ad37b9c6c" width="300" /><br>
+        <sub>图 6：牛津双解查词界面</sub>
       </td>
     </tr>
   </table>
