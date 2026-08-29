@@ -35,6 +35,20 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f99bf051-9f5c-4016-9172-4250346ec899" width="300" /><br>
+      图 3：自动大小写转换推荐
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ed617568-921a-46cf-9df9-df312836a197" width="300" /><br>
+      图 4：自造复合词拆解
+    </td>
+  </tr>
+</table>
+
+
 
 ### 2. 提供动词各种变形
 * **学术不规则原词逆推**：自动识别分词（`-ing`）、过去式/分词（`-ed`）、复数（`-es`/`-s`）以及学术论文中高频出现的拉丁/希腊借词不规则变化（如 `criteria -> criterion`、`media -> medium`），并在顶部提供一键跳转原词。
@@ -56,8 +70,17 @@
 
 ### 6.牛津词典在线翻译
 * **权威查询英汉双解**:自由切换"网页查询"和"牛津查询",包含权威释义,英汉双解,地道例句,提升对论文表达的理解度。
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/c0bcea25-1a2b-4ccc-8146-147ad37b9c6c" width="500" /><br>
+        <sub>图 1：牛津双解查词界面</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
----
 
 ##  可选进阶功能：DeepSeek 学术深度推演（按需开启）
 
