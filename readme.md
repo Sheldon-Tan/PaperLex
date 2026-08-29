@@ -77,7 +77,7 @@ pip install requests keyboard pyperclip openpyxl matplotlib pillow
 
 ### 2. 启动应用
 ```bash
-python PaperLex3.6.3.py
+python PaperLex4.1.py
 ```
 ### 3. 配置说明（可选）
 所有基础查词、动词变形、同源词网络、LaTeX 渲染与 Excel 归档功能无需任何配置即可直接使用。
