@@ -6,6 +6,10 @@
 
 ---
 
+##  下载链接(仅40MB):https://github.com/Sheldon-Tan/PaperLex/releases/download/v4.1/PaperLex.exe
+
+---
+
 ##  核心免费功能（零配置 · 开箱即用）
 
 无需注册任何账号或配置 API Key，启动即可完整使用以下所有功能：
