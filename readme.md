@@ -22,6 +22,8 @@
 * **句首大写智能转换**：划选句首大写的 `Intermediate`、`Linear`、`Attention` 时，自动绕过词典的孤立人名干扰，优先展示标准学术释义与词性。
 * **自造复合词拆解**：针对文献中带连字符的复合词（如 `cross-attention`、`speaker-aware`），自动拆分多词素并提供分词详解。
 * **模糊拼写纠错**：选中文本残缺或输入错误时，自动匹配并推荐相近候选词卡片。
+<img width="665" height="719" alt="image" src="https://github.com/user-attachments/assets/33e888c2-f501-4955-b010-65358534c447" />
+<img width="667" height="713" alt="image" src="https://github.com/user-attachments/assets/13b36d11-9842-4dde-8dd4-cb40b3d9a86a" />
 
 ### 2. 形态学逆推与动词网络
 * **学术不规则原词逆推**：自动识别分词（`-ing`）、过去式/分词（`-ed`）、复数（`-es`/`-s`）以及学术论文中高频出现的拉丁/希腊借词不规则变化（如 `criteria -> criterion`、`media -> medium`），并在顶部提供一键跳转原词。
