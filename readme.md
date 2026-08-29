@@ -6,7 +6,8 @@
 
 ---
 
-##  下载链接(仅40MB):https://github.com/Sheldon-Tan/PaperLex/releases/download/v4.1/PaperLex.exe
+##  下载链接(仅40MB):
+## https://github.com/Sheldon-Tan/PaperLex/releases/download/v4.1/PaperLex.exe
 
 ---
 
