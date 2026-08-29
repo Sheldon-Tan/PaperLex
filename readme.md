@@ -27,7 +27,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/33e888c2-f501-4955-b010-65358534c447" width="300" /><br>
-      图 1：自动纠错
+      图 1：模糊拼写纠错
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/13b36d11-9842-4dde-8dd4-cb40b3d9a86a" width="300" /><br>
@@ -71,7 +71,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/e6314430-9232-444d-898d-269cedae7faf" height="300" /><br>
+        <img src="https://github.com/user-attachments/assets/e6314430-9232-444d-898d-269cedae7faf" height="500" /><br>
         <sub>图 5：点击保存,Excel归档</sub>
       </td>
     </tr>
@@ -101,6 +101,18 @@
 * **定向顶会深度推演**：选定具体方向后，结合顶会论文语境生成技术输入输出模态、损失函数数学机理、经典基准数据集与 SOTA 基线对比表格。
 * **汉译英学术表达**：输入中文术语，生成 5 组适用于顶会论文写作的地道学术表达。
 * **熔断保护机制**：配备实时秒级计数器与 60 秒超时自动熔断保护。
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9de4d76c-c7d3-4ca3-9675-c99b42176640" width="300" /><br>
+      图 7：自动大小写转换推荐
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ea90ed67-d5c6-47f2-b49d-b669d4ddf9bd" width="300" /><br>
+      图 8：自造复合词拆解
+    </td>
+  </tr>
+</table>
 
 ---
 
