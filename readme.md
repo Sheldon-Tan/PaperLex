@@ -13,7 +13,7 @@
 ---
 
 ##  下载链接(仅40MB):
-##  https://github.com/Sheldon-Tan/PaperLex/releases/download/v4.1/PaperLex.zip  
+https://github.com/Sheldon-Tan/PaperLex/releases/download/v4.1/PaperLex-v4.1-Windows-x64.zip
 直接下载即可使用，无需配置Python环境
 ## 说明:
 * 1.如果需要deepseek接入,请点击"设置",配置api-key(也可以直接在可执行程序同目录下生成的config.json配置)
